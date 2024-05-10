@@ -1,0 +1,47 @@
+.header-img{
+    width: 40px;
+    align-items: center;
+}
+
+
+header{
+    padding: 20px 50px;
+    display: flex;
+    justify-content: space-between
+}
+nav{
+    width: 40%;
+}
+header ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color:  #636060;
+    
+}
+.Greece{
+    width: 1440px;
+    height: 606px;
+    background-image: url(../image/Rectangle\ 1\ \(1\).svg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.Greece h1{
+    font-family: Helvetica;
+    font-size: 79px;
+    font-weight: 700;
+    line-height: 90.84px;
+    text-align: left;
+    color: white;
+}
+.Greece p{
+    
+    font-family: Helvetica;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 21.85px;
+    text-align: left;
+    color: white;
+}
